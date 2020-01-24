@@ -1,0 +1,15 @@
+namespace: extremenetworks
+name: voss
+version: 1.0.0
+readme: README.md
+authors: null
+description: null
+license: null
+license_file: null
+tags: null
+dependencies:
+  ansible.netcommon: '>=1.0'
+repository: git@github.com:coll-test/extremenetworks.voss.git
+documentation: https://github.com/coll-test/extremenetworks.voss/tree/master/docs
+homepage: https://github.com/coll-test/extremenetworks.voss
+issues: https://github.com/coll-test/extremenetworks.voss/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc
